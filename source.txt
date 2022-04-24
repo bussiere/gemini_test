@@ -1,0 +1,42 @@
+# Serveur Gemini de Stéphane Bortzmeyer
+
+Il s'agit d'un serveur très expérimental, avec peu de contenu. Tout est en français.
+
+## MercrediFiction
+
+De courtes histoires qui sont envoyées le mercredi sur le fédivers.
+
+=> mercredifiction/ Toutes les MercrediFictions
+
+=> https://www.bortzmeyer.org/mastodon-mercredifiction.html [Web] Explication de l'outil de conversion de ces histoires
+
+## Capsules en français
+
+=> gemini://purexo.mom/ Purexo
+=> gemini://gemlog.lanterne.chilliet.eu/ Le Gemlog (blog Gemini) de MCMic
+=> gemini://jpfox.fr/ Jean-Pierre Fox
+
+## Tests IRI (URI en Unicode)
+
+=> café.gmi Du café
+
+## Tests contenus
+
+=> valleuse-antifer.jpg Une jolie image (la valleuse d'Antifer, près du Havre)
+
+## Autres tests
+
+Rien d'intéressant derrière ces liens :
+
+=> index.gmi?test Avec requête
+=> index.gmi#test Avec fragment
+=> funny!file.gmi Avec point d'exclamation
+
+## Des liens que je trouve intéressants
+
+=> gemini://purexo.mom/blog/2020/12-01-reflexions-autour-de-gemini.gmi Article (en français) de Purexo sur Gemini
+=> https://ploum.net/gemini-le-protocole-du-slow-web/ [Web] Article de Ploum sur Gemini
+=> https://linuxfr.org/users/hellpe/journaux/gemini-et-solid-deux-alternatives-au-web-qu-il-faut-qu-on-m-explique [Web] Discussion sur LinuxFr
+=> https://etienne.depar.is/a-ecrit/decouverte-de-gemini.html [Web] À la découverte de Gemini
+=> https://larlet.fr/david/2020/12/13/ Anti-Gemini et avec des remarques assez bêtes sur l'esthétique des clients Gemini
+=> https://grainedutopie.eu/2021/01/03/gemini-pour-un-web-plus-sobre/ Une vision critique
